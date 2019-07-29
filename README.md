@@ -15,6 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
+
 1. How other developers suggested breaking into the field (what education to pursue)?
 2. What factors about an individual contributed to salary?
 3. How bias played a role in the suggestions of developers for how to break into the field?
